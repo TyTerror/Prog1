@@ -1,0 +1,9 @@
+Assumptions
+----------------------------------------
+1.) A line is 80 characters long
+    a.)I repeated 0-9 at the top to show it
+    b)I assumed an inch was 6 characters 12pt font
+2.)I don't think font size matters because during testing the size was just defaulting
+3.)My program has a few problems
+    a.)It starts to get wonky when the margin is VERY thin
+    b.)Sometimes a word might go slightly over the margin if it is the beginning of a new sentence and has two spaces.
