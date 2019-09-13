@@ -4,6 +4,10 @@ Assumptions
     a.)I repeated 0-9 at the top to show it
     b)I assumed an inch was 6 characters 12pt font
 2.)I don't think font size matters because during testing the size was just defaulting
+    a.)I'm also assuming that if font size did matter that the problem would be more with the window size than the font size
 3.)My program has a few problems
     a.)It starts to get wonky when the margin is VERY thin
     b.)Sometimes a word might go slightly over the margin if it is the beginning of a new sentence and has two spaces.
+    c.)So i run it by typing "python ./PythonTest.py" in command line however it looks like it doesn't actually write to the    file but the changes can be seen if you "preview static" the file
+    d.)There seems to be more problems running on codio than in another IDE
+3.)The github link is https://github.com/TyTerror/Prog1/tree/master
